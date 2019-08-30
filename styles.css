@@ -1,0 +1,31 @@
+html{
+  background-color: lightGrey;
+}
+.Title{
+  font-size:20;
+  font-style: oblique;
+  color
+}
+h1{
+  font-size:16;
+  font-style: italic;
+}
+p{
+  font-size:12;
+
+}
+.one{
+  background-color:#FFC30F;
+}
+.two{
+  background-color:#FF5733;
+}
+.three{
+  background-color:#c70039;
+}
+.four{
+  background-color:#900c3f;
+}
+.five{
+  background-color:#581845;
+}
