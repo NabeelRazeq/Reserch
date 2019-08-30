@@ -1,5 +1,6 @@
 html{
   background-color: lightGrey;
+
 }
 .Title{
   font-size:20;
@@ -12,6 +13,7 @@ h1{
 }
 p{
   font-size:12;
+  color:white;
 
 }
 .one{
@@ -28,4 +30,7 @@ p{
 }
 .five{
   background-color:#581845;
+}
+header p{
+  color:red;
 }
