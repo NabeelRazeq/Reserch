@@ -5,16 +5,27 @@ html{
 .Title{
   font-size:20;
   font-style: oblique;
-  color
+  text-align:justify;
+
 }
 h1{
   font-size:16;
   font-style: italic;
+  color:#ff9f40;
+}
+a{
+  font-size:8;
+  font-style: oblique;
+  font-weight: lighter;
 }
 p{
   font-size:12;
   color:white;
-
+}
+#Big{
+  font-style: italic;
+  font-weight: bold;
+  font-size:26
 }
 .one{
   background-color:#FFC30F;
