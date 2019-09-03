@@ -45,7 +45,8 @@ p{
 }
 header p{
   color:Black;
-  font-size:20;
-  font-style: oblique;
+  font-size:26;
+  font-style: italic;
   text-align:justify;
+  font-weight:bold;
 }
