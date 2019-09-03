@@ -2,8 +2,8 @@ html{
   background-color: lightGrey;
 
 }
-.Title{
-  font-size:20;
+.Importent{
+  font-size:14;
   font-style: oblique;
   text-align:justify;
 
@@ -37,11 +37,15 @@ p{
   background-color:#c70039;
 }
 .four{
-  background-color:#900c3f;
+  background-color:#F7347A;
 }
 .five{
-  background-color:#581845;
+  background-color:#900c3f;
+  opacity:.9
 }
 header p{
-  color:red;
+  color:Black;
+  font-size:20;
+  font-style: oblique;
+  text-align:justify;
 }
