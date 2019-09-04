@@ -24,10 +24,10 @@ p{
   scroll-behavior: auto;
   scroll-behavior: smooth;
 }
-#Big{
-  font-style: italic;
-  font-weight: bold;
-  font-size:26
+#Quote{
+  font-style:oblique;
+
+
 }
 .one{
   background-color:#FFC30F;
@@ -51,4 +51,9 @@ header p{
   font-style: italic;
   text-align:justify;
   font-weight:bold;
+}
+header h1{
+  text-align: center;
+  font-weight: bold;
+  color: Black
 }
