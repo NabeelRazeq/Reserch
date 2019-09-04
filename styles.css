@@ -21,6 +21,8 @@ a{
 p{
   font-size:12;
   color:white;
+  scroll-behavior: auto;
+  scroll-behavior: smooth;
 }
 #Big{
   font-style: italic;
