@@ -17,7 +17,7 @@ a{
   font-size:8;
   font-style: oblique;
   font-weight: lighter;
-  color:darkblue;
+  color:Black;
 }
 p{
   font-size:12;
@@ -28,6 +28,9 @@ p{
 #Quote{
   font-style:oblique;
 
+
+}
+img{
 
 }
 .one{
